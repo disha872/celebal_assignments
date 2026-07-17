@@ -1,0 +1,12 @@
+ID,Name,Age,Salary,Department,JoinDate
+101,Aarav Sharma,28.0,85000,Engineering,2024-01-15
+102,Diya Patel,32.0,92000,Marketing,2023-05-10
+103,Vivaan Sen,,78000,Engineering,2024-03-01
+104,Ananya Rao,45.0,120000,Finance,2022-11-20
+105,Kabir Singh,29.0,,HR,2024-06-01
+102,Diya Patel,32.0,92000,Marketing,2023-05-10
+106,Sai Prasad,38.0,"$110,000",Engineering,2021-08-14
+107,Riya Gupta,150.0,65000,Sales,2025-01-05
+108,Ishaan Nair,-5.0,50000,Sales,2025-02-10
+109,Meera Joshi,24.0,N/A,HR,2024-10-15
+110,Aditya Verma,31.0,88000,Engineering,2024-07-22
